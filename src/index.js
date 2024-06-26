@@ -1,3 +1,9 @@
+/*
+ Author: Nico Samadelli
+ Version: 1.0
+ Datum: 26.06.24
+ Beschreibung: Bestimmt verschiedene Routen.
+*/
 import React from "react";
 import ReactDOM from "react-dom/client";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";

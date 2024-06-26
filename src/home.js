@@ -1,3 +1,9 @@
+/*
+ Author: Nico Samadelli
+ Version: 1.0
+ Datum: 26.06.24
+ Beschreibung: Home Seite mit viel Text.
+*/
 import React from "react";
 import { Link } from "react-router-dom";
 import Navbar from "./navbar";

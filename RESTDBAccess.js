@@ -1,3 +1,11 @@
+/*
+ Author: Nico Samadelli
+ Version: 1.0
+ Datum: 26.06.24
+ Beschreibung: Dieses File stellt die Verbindung zur DB her und ist für SQL Abfragen zuständig.
+*/
+
+
 // Importiert die benötigten Module
 const express = require("express");
 const mysql = require("mysql");

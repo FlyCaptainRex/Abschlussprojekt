@@ -1,3 +1,9 @@
+/*
+ Author: Nico Samadelli
+ Version: 1.0
+ Datum: 26.06.24
+ Beschreibung: Seite mit dem Bestellformular. 
+*/
 import React from "react";
 import Navbar from "./navbar";
 import "./mystyle.css";

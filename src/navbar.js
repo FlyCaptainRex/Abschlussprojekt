@@ -1,3 +1,9 @@
+/*
+ Author: Nico Samadelli
+ Version: 1.0
+ Datum: 26.06.24
+ Beschreibung: Die Navigations Bar.
+*/
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
 import "./mystyle.css";

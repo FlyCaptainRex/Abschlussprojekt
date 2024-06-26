@@ -1,3 +1,9 @@
+/*
+ Author: Nico Samadelli
+ Version: 1.0
+ Datum: 26.06.24
+ Beschreibung: Die Seite, auf der die Produkte angezeigt werden.
+*/
 import React, { useState, useEffect } from "react";
 import "./mystyle.css";
 import Navbar from "./navbar";
